@@ -72,4 +72,6 @@ This application offers an automated, efficient way to fetch, clean, and save hi
 
 ## Contributors
 
-### Dino Stojkoski 211226
+ - Dino Stojkoski 211226
+ - Hristijan Pumpaloski 221264
+ - Filip Lokoski 221119
